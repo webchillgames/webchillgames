@@ -6,6 +6,8 @@
 
 - Моё резюме на [hh.ru](https://tambov.hh.ru/resume/d3fd216eff0dc012310039ed1f6c344d694f61)
 
+- Актуальный код можно посмотреть в проектах в Pinned
+
 ![image](https://www.codewars.com/users/webchillgames/badges/large)
 
 
