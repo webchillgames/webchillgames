@@ -3,12 +3,17 @@
 #### Обо мне
 
 - Я ищу работу frontend разработчиком - удалённо.
+  
+- [Моё CV](https://webchillgames.github.io/cv/) 
 
-- Моё резюме на [hh.ru](https://tambov.hh.ru/resume/d3fd216eff0dc012310039ed1f6c344d694f61)
+- Резюме на [hh.ru](https://tambov.hh.ru/resume/d3fd216eff0dc012310039ed1f6c344d694f61)
 
-- Актуальный код можно посмотреть в проектах в Pinned
+- Актуальный код можно посмотреть в проектах в Pinned:
+  
+   https://github.com/webchillgames/credit-card-form
 
-![image](https://www.codewars.com/users/webchillgames/badges/large)
+
+
 
 
 #### Контакты
@@ -22,7 +27,9 @@
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+#### Дополнительно
 
+![image](https://www.codewars.com/users/webchillgames/badges/large)
 
 
 
