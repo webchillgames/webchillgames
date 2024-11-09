@@ -8,11 +8,14 @@
 
 - Резюме на [hh.ru](https://tambov.hh.ru/resume/d3fd216eff0dc012310039ed1f6c344d694f61)
 
-- Актуальный код можно посмотреть в проектах в Pinned:
-  
-   https://github.com/webchillgames/credit-card-form
 
-   https://github.com/webchillgames/pomodoro-timer
+### Проекты в которых можно посмотреть код
+
+1. Vue, TypeScript, JavaScript:
+  
+   Экран ввода данных карты оплаты: https://github.com/webchillgames/credit-card-form
+
+   Pomodoro timer: https://github.com/webchillgames/pomodoro-timer
 
 #### Контакты
 
