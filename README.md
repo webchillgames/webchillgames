@@ -3,8 +3,6 @@
 #### Обо мне
 
 - Я ищу работу frontend разработчиком - удалённо. 
-  
-- [Моё CV](https://webchillgames.github.io/cv/) (откроется лендинг)
 
 - Резюме на [hh.ru](https://tambov.hh.ru/resume/d3fd216eff0dc012310039ed1f6c344d694f61)
 
